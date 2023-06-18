@@ -6,8 +6,7 @@ Explanation:
 true&&false=>false
 true||false=>true
 !(true) && !(false)=>false
-
-
+===========================================
 class Geeks{
     
     static void logicOp(boolean a, boolean b){
